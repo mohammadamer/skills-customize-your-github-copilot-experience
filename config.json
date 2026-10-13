@@ -71,6 +71,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-rest-api-client",
+      "title": "Python REST API Client",
+      "description": "Build a Python client that communicates with a FastAPI REST API using HTTP and JSON.",
+      "path": "assignments/python-rest-api-client",
+      "dueDate": "2026-10-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "client.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
